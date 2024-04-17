@@ -1,6 +1,0 @@
-[submodule "LearnHub-Backend"]
-	path = LearnHub-Backend
-	url = https://github.com/LearnHubProject/LearnHub-Backend.git
-[submodule "LearnHub-Frontend"]
-	path = LearnHub-Frontend
-	url = https://github.com/LearnHubProject/LearnHub-Frontend.git
