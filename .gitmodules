@@ -4,3 +4,4 @@
 [submodule "LearnHub-Frontend"]
 	path = LearnHub-Frontend
 	url = https://github.com/LearnHubProject/LearnHub-Frontend.git
+	branch = basic-teachers-view
